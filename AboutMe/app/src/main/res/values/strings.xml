@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">About Me</string>
+    <string name="name">Aviraj Newatia</string>
+    <string name="yellow_star">yellow_star_string_resource</string>
+    <string name="bio_value">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere vitae libero sit amet auctor. Nulla ac elit est. Etiam feugiat, nisl volutpat fermentum ornare, lacus libero finibus eros, ut rhoncus libero metus ac urna. Pellentesque elementum luctus purus, sit amet blandit ante bibendum quis. Aliquam cursus ligula nisi, eget ultricies ipsum tristique ac. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque posuere, urna sed egestas fermentum, sem erat porttitor mi, condimentum porttitor lacus sem eu erat. In efficitur tellus id pulvinar pellentesque.
+
+Nulla a vulputate orci. Integer faucibus finibus nibh suscipit interdum. Fusce finibus lacinia elementum. Vivamus vestibulum ut leo id feugiat. Morbi quis nibh non ipsum euismod feugiat. Duis id dolor ut ligula pulvinar rutrum nec sagittis ipsum. In lacinia hendrerit sagittis.
+
+Nam dictum, leo id laoreet posuere, tortor nisl porttitor risus, eu ultrices nulla lectus vel mauris. Vestibulum aliquet tincidunt ex in mollis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Integer sed dolor nec ex porta ultrices. Morbi volutpat scelerisque mauris, non lobortis nisi fermentum quis. Sed aliquet pulvinar ullamcorper. Ut quis nisi quis dui consectetur lobortis.
+
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer volutpat ex massa, quis tincidunt purus bibendum vitae. Mauris in accumsan quam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ante leo, accumsan eu ullamcorper id, hendrerit aliquet nunc. Cras odio dui, suscipit id augue et, bibendum accumsan ipsum. Nulla non est in mi finibus fringilla at at mi. Mauris sit amet mi a velit dapibus tempor. Etiam vehicula leo sit amet leo posuere, sit amet tempus sapien laoreet. Ut cursus velit leo, sit amet tincidunt nulla rhoncus et. Maecenas eget varius risus. Sed in nunc fringilla, cursus magna in, molestie purus.
+
+Curabitur quis nunc facilisis, feugiat purus ac, ornare est. In mauris magna, ultricies at tellus eget, venenatis porttitor elit. Nam ultrices orci eget sem condimentum sagittis. Morbi tempor id justo ut bibendum. Donec tristique gravida augue sed faucibus. Etiam ultricies, diam eu egestas dapibus, arcu est commodo massa, sit amet vestibulum purus sem ut magna. Mauris et dapibus nulla, vel porttitor mi. In dignissim sit amet felis eget varius. Nulla placerat augue vitae ex volutpat, ac mattis metus efficitur. Nunc dictum iaculis sapien non mattis. Sed commodo enim libero, id molestie massa egestas a. Proin mattis nec nibh aliquet facilisis. Donec in lacus ullamcorper, porttitor felis ut, tristique diam. Cras non feugiat diam, vitae blandit purus.</string>
+    <string name="what_nickname">What is your nickname?</string>
+    <string name="done">done</string>
 </resources>
